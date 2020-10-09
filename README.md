@@ -1,1 +1,6 @@
 # oceanApp
+
+Summary<br/><br/>
+The world ocean provides so many benefits. Many medicinal products come from the ocean. It is an important source of food. Many jobs around the world are related to sea activities. More importantly it produces half of the oxygen we breathe and regulate the Earth climate in many ways. The oceans of the Earth can exist without us. If we humans become extinct, they won’t even notice we are gone. We, however, simply cannot exist without our oceans. So we decided to focus on ocean pollution.Therefore finally we were able make a mobila app that can brings the awareness on people about ocean pollution.<br/><br/>
+How We Addressed This Challenge<br/><br/>
+As we understood ocean pollution as a major problem we've decided to make a mobile app that can aware people one ocean peaple.Not only that with this app we are proposing new ways to use ocean in sustainable ways. Also by our app anyone can get a knowledge about location of coral reeves , how the marine biology spread in the ocean and how those sensitive eco systems spread in the oceans. With these mapped data we are trying to persuade people not to pollute ocean by showing them the real beauty of ocean and the ways that we can use ocean sustainably.
